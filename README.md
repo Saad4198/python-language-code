@@ -1,4 +1,4 @@
-# python-language-code
+# Python-Language-Code
 # Chapters
 The course is divided into several chapters, each focusing on different aspects of Python programming:
 
