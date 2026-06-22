@@ -39,20 +39,20 @@ ii. for loop
 iii.range() function
 iv. for loop with else
 v. Break, continue, and pass statements
-**Chapter 8: Functions & Recursions**
+# Chapter 8: Functions & Recursions
 i. Defining and calling functions
 ii. Recursion in Python
-**Chapter 9: File I/O**
+# Chapter 9: File I/O
 i. Reading and writing files
 ii. Working with directories
-**Chapter 10: Object-Oriented Programming**
+# Chapter 10: Object-Oriented Programming
 i. Classes and objects
 ii. Methods and attributes
-**Chapter 11: Inheritance & More on OOPs**
+# Chapter 11: Inheritance & More on OOPs
 i. Inheritance
 ii. Polymorphism
 iii. Operator overloading
-**Chapter 12: Advanced Python 1**
+# Chapter 12: Advanced Python 1
 i. Newly added features in Python
 ii. Walrus operator
 iii. Advanced type hints
@@ -61,7 +61,7 @@ v. Dictionary merge & update operators
 vi. Exception handling enhancements
 vii. Global keyword and enumerate function
 viii.List comprehensions
-**Chapter 13: Advanced Python 2**
+# Chapter 13: Advanced Python 2
 i. Virtual environments
 ii. Lambda functions
 iii. String methods: join and format
