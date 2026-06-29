@@ -1,0 +1,28 @@
+#write value take build in and count the number
+a=(23,23,1,23,243,54,23,34,1,34,556,34,53,54,46,23,46,79,344,24,34,34,35,34,79)
+print(a)
+print("the value 23 repeat",a.count(23))
+print("the value 1 repeat",a.count(1))
+print("the value 24 repeat",a.count(24))
+print("the value 34 repeat",a.count(34))
+#write a program that take user defined value used
+b=[]
+c=int(input("Enter the number C:"))
+b.append(c)
+d=int(input("Enter the number D:"))
+b.append(d)
+e=int(input("Enter the number E:"))
+b.append(e)
+f=int(input("Enter the number F:"))
+b.append(f)
+g=int(input("Enter the number G :"))
+b.append(g)
+h=int(input("Enter the number H :"))
+b.append(h)
+print("the vlaue of b is ",b) #it is tell who many time a number repeat and they count the no.
+print("Count of", c, "=", b.count(c))
+print("Count of", d, "=", b.count(d))
+print("Count of", e, "=", b.count(e))
+print("Count of", f, "=", b.count(f))
+print("Count of", g, "=", b.count(g))
+print("Count of", h, "=", b.count(h))
